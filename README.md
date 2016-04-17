@@ -2,9 +2,13 @@
 Score trend before and after regular timeout
 
 __Project name__: Score trend before and after regular timeout
+
 __Team name__: Ace Hackers
+
 __Team members__: Wuge Zhou, Jing Mu, Yinxiang Gao, Yue Wang
+
 __Data source__: 2011-2012 playbyplay data (http://basketballvalue.com/downloads.php)
+
 
 Project description:
 
